@@ -1,0 +1,25 @@
+{
+  "id": "lancer-npc-ui",
+  "title": "Lancer-NPC-UI",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": [
+    "scripts/lancer-npc-ui.js"
+  ],
+  "styles": [
+    "styles/lancer-npc-ui.css"
+  ],
+  "esmodules": [],
+  "languages": [],
+  "packs": [],
+  "relationships": {},
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "authors": [
+    { "name": "Your Name" }
+  ]
+}
